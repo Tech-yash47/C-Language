@@ -1,0 +1,1 @@
+scanf(" Enter an %\n",&);
